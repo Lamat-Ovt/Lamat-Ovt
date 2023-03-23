@@ -8,8 +8,8 @@
       <h2 align="center">Skills</h2>
       <dl align="center">
          <a href="https://github.com/Lamat-Ovt">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricoyogapradana&theme=buefy&show_icons=true" />
-           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoyogapradana&theme=buefy&layout=compact" />
+           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lamat-Ovt&theme=buefy&show_icons=true" />
+           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamat-Ovt&theme=buefy&layout=compact" />
          </a>
       </dl>
       <h2 align="center">Contact me on</h2>
