@@ -2,34 +2,34 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-         <br>Halo perkenalkan nama saya Rico Yoga Pradana mahasiswa program studi Sistem Informasi Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta.
+         <br>Halo perkenalkan nama saya Ma'ruf Nur Muhammad mahasiswa program studi Sistem Informasi Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta.
         <br>
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
-         <a href="https://github.com/ricoyogapradana">
+         <a href="https://github.com/Lamat-Ovt">
            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricoyogapradana&theme=buefy&show_icons=true" />
            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoyogapradana&theme=buefy&layout=compact" />
          </a>
       </dl>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">
-         <a href="https://twitter.com/ricoyogapradana">
+<!--          <a href="https://twitter.com/ricoyogapradana"> -->
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
          </a>
 <!--          <a href="https://www.linkedin.com/in/gauravghongde">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
          </a> -->
-         <a href="https://www.instagram.com/ricoyogaprdna">
+<!--          <a href="https://www.instagram.com/ricoyogaprdna"> -->
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
 <!--          <a href="https://www.behance.net/gauravghongde">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
          </a> -->
-         <a href="mailto:ricoyogapradana@gmail.com">
+<!--          <a href="mailto:ricoyogapradana@gmail.com"> -->
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-         <a href="https://telegram.me/ricoyogapradana">
+<!--          <a href="https://telegram.me/ricoyogapradana"> -->
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
 <!--          <a href="https://discord.gg/2RHSUwy">
