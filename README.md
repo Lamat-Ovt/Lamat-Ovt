@@ -2,19 +2,15 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-         I'm a 2019 Computer Engineering Graduate from Pune University, currently working as Software Developer, at TIAA GBS Pune.<br> Worked on ML, NLP for my Final Year Project. Developed and deployed an Android app on Playstore as an hobby project [<a href="https://play.google.com/store/apps/details?id=com.rstack.dephone">Minify<a>]. 
-         <br>Currently working on a Q&A website for the company's internal use [<a href="https://github.com/gauravghongde/devnet">Devnet<a>], inspired from stack-overflow. The idea of this POC is to create an open source alternative for stackoverflow, with a new age tech stack.
+         <br>Halo perkenalkan nama saya Rico Yoga Pradana mahasiswa program studi Sistem Informasi Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta.
         <br>
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
-         <dt>Languages :</dt>
-         <dd>- Java, Python, TypeScript, JavaScript</dd>
-         <dt>Frameworks or Technologies :</dt>
-         <dd>- Spring Boot, Spring Security, Microservices,
-            HTML5, CSS3, Angular 5+, Bootstrap, RxJS
-            MongoDB
-         </dd>
+         <a href="https://github.com/ricoyogapradana">
+           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricoyogapradana&theme=buefy&show_icons=true" />
+           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoyogapradana&theme=buefy&layout=compact" />
+         </a>
       </dl>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">
