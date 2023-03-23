@@ -23,9 +23,9 @@
          <a href="https://www.instagram.com/ricoyogaprdna">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.behance.net/gauravghongde">
+<!--          <a href="https://www.behance.net/gauravghongde">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
-         </a>
+         </a> -->
          <a href="mailto:ricoyogapradana@gmail.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
@@ -39,7 +39,7 @@
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
          </a> -->
       </h2>
-      <details align="center">
+<!--       <details align="center">
          <summary><b>More About Me</b><br></summary>
             <div>
                <b>
@@ -57,6 +57,6 @@
                   </a>
                </b>
             </div>
-      </details>
+      </details> -->
    </body>
 </html>
