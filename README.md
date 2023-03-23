@@ -2,7 +2,7 @@
    <body>
       <h2 align="center">Bio</h2>
       <p align="center">
-         <br>Halo perkenalkan nama saya Ma'ruf Nur Muhammad mahasiswa program studi Sistem Informasi Fakultas Ilmu Komputer Universitas Duta Bangsa Surakarta.
+         <br>Halo perkenalkan nama saya Ma'ruf Nur Muhammad.
         <br>
       </p>
       <h2 align="center">Skills</h2>
