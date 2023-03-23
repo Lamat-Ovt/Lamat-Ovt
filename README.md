@@ -14,30 +14,30 @@
       </dl>
       <h2 align="center">Contact me on</h2>
       <h2 align="center">
-         <a href="https://twitter.com/madebygaurav">
+         <a href="https://twitter.com/ricoyogapradana">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
          </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
+<!--          <a href="https://www.linkedin.com/in/gauravghongde">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://www.instagram.com/madebygaurav">
+         </a> -->
+         <a href="https://www.instagram.com/ricoyogaprdna">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.behance.net/gauravghongde">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Behance_black.png" width="32" height="32"/>
          </a>
-         <a href="mailto:7gaurav.ghongde@gmail.com">
+         <a href="mailto:ricoyogapradana@gmail.com">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="32" height="32"/>
          </a>
-         <a href="https://telegram.me/gsg7397">
+         <a href="https://telegram.me/ricoyogapradana">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
          </a>
-         <a href="https://discord.gg/2RHSUwy">
+<!--          <a href="https://discord.gg/2RHSUwy">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Discord_black.png" width="32" height="32"/>
-         </a>
-         <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
+         </a> -->
+<!--          <a href="https://play.google.com/store/apps/dev?id=7300960281868524728">
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/GooglePlay_black.png" width="32" height="32"/>
-         </a>
+         </a> -->
       </h2>
       <details align="center">
          <summary><b>More About Me</b><br></summary>
