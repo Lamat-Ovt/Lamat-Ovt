@@ -7,9 +7,9 @@
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
-         <a href="https://github.com/Lamat-Ovt">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lamat-Ovt&theme=buefy&show_icons=true" />
-           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lamat-Ovt&theme=buefy&layout=compact" />
+         <a href="https://github.com/marufnurmihammad">
+           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marufnurmuhammad&theme=buefy&show_icons=true" />
+           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufnurmuhamamd&theme=buefy&layout=compact" />
          </a>
       </dl>
       <h2 align="center">Contact me on</h2>
