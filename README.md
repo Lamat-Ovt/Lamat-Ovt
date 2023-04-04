@@ -7,7 +7,7 @@
       </p>
       <h2 align="center">Skills</h2>
       <dl align="center">
-         <a href="https://github.com/marufnurmihammad">
+         <a href="https://github.com/marufnurmuhammad/">
            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marufnurmuhammad&theme=buefy&show_icons=true" />
            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufnurmuhamamd&theme=buefy&layout=compact" />
          </a>
